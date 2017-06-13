@@ -1,0 +1,3 @@
+[submodule "HFSS_File_Generation/HFSS_Python"]
+	path = HFSS_File_Generation/HFSS_Python
+	url = https://github.com/HRG-Lab/HFSS_Python.git
